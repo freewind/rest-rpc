@@ -4,3 +4,9 @@
 [submodule "rest-rpc-sample"]
 	path = rest-rpc-sample
 	url = git@github.com:xiaoshao/rest-rpc-sample.git
+[submodule "rest-rpc-play"]
+	path = rest-rpc-play
+	url = git@github.com:xiaoshao/rest-rpc-play.git
+[submodule "sbt-rest-rpc"]
+	path = sbt-rest-rpc
+	url = git@github.com:xiaoshao/sbt-rest-rpc.git
