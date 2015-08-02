@@ -1,0 +1,12 @@
+[submodule "rest-rpc-core"]
+	path = rest-rpc-core
+	url = git@github.com:xiaoshao/rest-rpc-core.git
+[submodule "rest-rpc-play"]
+	path = rest-rpc-play
+	url = git@github.com:xiaoshao/rest-rpc-play.git
+[submodule "rest-rpc-sample"]
+	path = rest-rpc-sample
+	url = git@github.com:xiaoshao/rest-rpc-sample
+[submodule "sbt-rest-rpc"]
+	path = sbt-rest-rpc
+	url = git@github.com:xiaoshao/sbt-rest-rpc.git
